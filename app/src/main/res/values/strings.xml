@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My app name</string>
+    <string name="search_text">Search ..</string>
+    <string name="restaurants">Category 1</string>
+    <string name="hotels">Category 2</string>
+    <string name="shops">Category 3</string>
+    <string name="airports">Category 4</string>
+    <string name="featured_locations">Featured categories</string>
+    <string name="featured_locations_description">Here description text </string>
+    <string name="most_viewed_location">Most viewed categories</string>
+    <string name="text_view"></string>
+    <string name="categories">Categories</string>
+    <string name="home">Home</string>
+    <string name="all_categories">All categories</string>
+    <string name="add_missing_place">Add missing categories</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Pofile</string>
+    <string name="login">Login</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="slogon_name">Go further</string>
+</resources>
